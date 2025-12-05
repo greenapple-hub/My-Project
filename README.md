@@ -10,9 +10,13 @@ This repository contains workbooks and data to analyze blood pressure readings f
 
 ## Workbooks
 
-BP_Analysis.ipynb
-
+### Basic analysis workbook
+* BP_Analysis.ipynb
+* Visualization.ipynb
+* DataGeneration.ipynb
 ## Data
 
 ## References
+
+This analysis uses the hypertension categories defined in:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
